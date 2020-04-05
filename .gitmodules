@@ -4,3 +4,6 @@
 [submodule "maker-bundle"]
 	path = maker-bundle
 	url = https://github.com/jrushlow/maker-bundle
+[submodule "verify-bundle"]
+	path = verify-bundle
+	url = https://github.com/jrushlow/symfony-verify-bundle-prototype
